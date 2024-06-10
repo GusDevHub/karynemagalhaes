@@ -1,0 +1,39 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+/*
+------------------ FONT AWESOME --------------------------
+	font-family: 'FontAwesome';
+*/
+/*
+/****************************************************************************************/
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700|Playfair+Display|Noto+Serif:400,700');
+/*
+--------------- LATO THIN -----------------
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+*/
+/*
+--------------- LATO LIGHT -----------------
+	font-weight: 300;
+*/
+/*
+--------------- LATO REGULAR -----------------
+	font-weight: 400;
+*/
+/*
+--------------- LATO BOLD -----------------
+	font-weight: 700;
+*/
+/***************************************************************************
+--------------- PLAYFAIR REGULAR -----------------
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+*/
+/***************************************************************************
+------------ NOTO SERIF REGULAR --------------
+	font-family: 'Noto Serif', serif;
+	font-weight: 400;
+*/
+/*
+------------ NOTO SERIF BOLD -----------------
+	font-weight: 700;
+*/
